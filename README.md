@@ -1,2 +1,2 @@
 # static
-Static resources 
+Static resources
